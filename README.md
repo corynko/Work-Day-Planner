@@ -6,7 +6,7 @@ A simple planner optimized for a 9-5 workday. Action items are saved in the user
 
 ## Where Is It?
 
-You can find and use the planner at [https://corynko.github.io/Work-Day-Planner](https://corynko.github.io/Work-Day-Planner)
+You can find and use the planner at [corynko.github.io/Work-Day-Planner](https://corynko.github.io/Work-Day-Planner)
 
 ## How Do I Use It?
 
