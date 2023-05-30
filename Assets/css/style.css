@@ -42,7 +42,7 @@ textarea {
 
 .past {
   background-color: #d3d3d3;
-  color: white;
+  color: var(--darkest);
 }
 
 .present {
@@ -65,6 +65,10 @@ textarea {
 
 .saveBtn i:hover {
   font-size: 20px;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  color: var(--lighter);
+}
+
+#welcome {
   color: var(--lighter);
 }
